@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "game": "Pokemon Pearl Version",
+  "region": "USA",
+  "language": "English",
+  "game_code": "APAE",
+  "rom_version": 5,
+  "representation": "PRET matching ROM image",
+  "size_bytes": 67108864,
+  "clean_reference": {
+    "status": "verified_local_exact_match",
+    "sha1": "99083bf15ec7c6b81b4ba241ee10abd9e80999ac",
+    "source": "pret/pokediamond",
+    "source_path": "pokepearl.us.sha1"
+  },
+  "observed_source": {
+    "filename": "Pokemon_Pearl_USA_NDS-LGC.nds",
+    "sha1": "99083bf15ec7c6b81b4ba241ee10abd9e80999ac",
+    "relation_to_clean_reference": "byte-exact whole-ROM match"
+  },
+  "policy": "Use this SHA-1 as the byte-matching target for this USA Rev 5 branch. Other encrypted/decrypted/catalog representations must be recorded separately instead of silently substituted."
+}
