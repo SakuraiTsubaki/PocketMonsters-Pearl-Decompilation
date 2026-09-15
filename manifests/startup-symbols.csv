@@ -1,0 +1,11 @@
+symbol,address,mode,kind,confidence,evidence
+_start,0x02000800,ARM,function,matched,"local ROM machine code; byte-identical startup with Diamond target"
+INITi_CpuClear32,0x0200093C,ARM,function,matched,"local ROM machine code; byte-identical startup with Diamond target"
+MIi_UncompressBackward,0x02000950,ARM,function,matched,"local ROM machine code; byte-identical startup with Diamond target"
+do_autoload,0x020009FC,ARM,function,matched,"local ROM machine code; byte-identical startup with Diamond target"
+init_cp15,0x02000A78,ARM,function,matched,"local ROM machine code; byte-identical startup with Diamond target"
+NitroStartUp,0x02000B64,ARM,function,matched,"local ROM machine code; byte-identical startup with Diamond target"
+_start_ModuleParams,0x02000B68,data,object,matched,"literal reference from _start; byte-identical startup with Diamond target"
+_fp_init,0x020EC5CC,ARM,function,matched,"direct BL from _start; same target as Diamond target"
+__call_static_initializers,0x020EC694,ARM,function,matched,"direct BL from _start; same target as Diamond target"
+NitroMain,0x02000C54,Thumb,function,matched,"literal target from _start; local NitroMain bytes match Diamond target"
