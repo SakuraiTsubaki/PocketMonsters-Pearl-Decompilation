@@ -6,9 +6,20 @@
 - Working target name: Pocket Monsters Pearl
 - Platform family: Nintendo DS
 - Series generation: Generation IV
-- Exact release, region, revision, and build: **not yet selected**
+- Exact release, region, revision, and build: **USA English, game code `APAE`, header ROM version `5`; complete-file public target match confirmed**
 
 The repository name is a working label, not proof of a particular binary. No address, symbol, format, or behavior should be treated as target fact until the exact build is identified.
+
+## Selected identifiers
+
+- Official/localized title: Pokémon Pearl Version
+- Game code: `APAE`
+- Header title: `POKEMON P`
+- Region and language: USA, English
+- Header ROM version: `5`
+- Complete ROM size: `67108864` bytes
+- SHA-256: `2dcc471033d1757ee572415f5773a77af67b350ad59e2aeb3fc28c1402c3a84c`
+- Evidence record: [`analysis/rom-identity.md`](analysis/rom-identity.md)
 
 ## Identity checklist
 
