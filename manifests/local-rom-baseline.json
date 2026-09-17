@@ -1,0 +1,14 @@
+{
+  "input_name": "Pokemon_Pearl_USA_NDS-LGC.nds",
+  "title": "POKEMON P",
+  "game_code": "APAE",
+  "rom_version": 5,
+  "size": 67108864,
+  "crc32": "e2d87ebf",
+  "sha256": "2dcc471033d1757ee572415f5773a77af67b350ad59e2aeb3fc28c1402c3a84c",
+  "arm9_sha256": "3042e54671a7ce72cb5e3874478f15aee845e6a052a85d661d0f488f26a38f54",
+  "arm7_sha256": "14fa162bf7cddc98f2db04d927cdeca54ea54c9821b23f9cd8ce2b6cbabbe626",
+  "fat_file_count": 356,
+  "arm9_overlay_count": 87,
+  "arm7_overlay_count": 0
+}
